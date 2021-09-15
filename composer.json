@@ -2,15 +2,10 @@
   "name": "sleeplessnight2/jquery-timeago",
   "description": "jQuery plugin that makes it easy to support automatically updating fuzzy timestamps (e.g. \"4 minutes ago\" or \"about 1 day ago\").",
   "license": "MIT",
-  "homepage": "http://timeago.yarp.com/",
   "authors": [
     {
       "name": "Ryan McGeary",
       "email": "ryan@mcgeary.org"
-    }
-    {
-      "name": "sleeplessnight2",
-      "email": "cheks@web.de"
     }
   ],
   "support": {
